@@ -1,0 +1,51 @@
+body {
+    background-color: hsl(30, 54%, 90%);
+}
+p {
+    font-size: 20px;
+}
+img {
+    width: 100%;
+    border-radius: 20px;
+
+}
+h2, h3 {
+    color: hsl(14, 45%, 36%);
+}
+b {
+    color: hsl(30, 10%, 34%)
+}
+li {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.time {
+    background-color: hsl(30, 54%, 90%);
+    margin-top: 5px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 2%;
+    border-radius: 20px;
+}
+.main {
+    background-color: white;
+    margin-top: 5%;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding: 5%;
+    border-radius: 20px;
+}
+table {
+    width: 100%;
+    
+}
+td {
+    border-bottom: 2px solid #ddd;
+    padding: 15px;
+    
+}
+
+tr:hover {
+    background-color: hsl(30, 54%, 90%) ;
+}
